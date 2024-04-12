@@ -4,4 +4,4 @@ Pillow
 Requests
 streamlit
 tensorflow
-
+plotly
